@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a curious and self-driven learner with a background in Electronics Engineering, currently transitioning into software development. I enjoy building practical projects, learning new technologies, and constantly improving my skills step by step.<br><br>🔭 I’m currently working on:<br>Frontend & backend projects using JavaScript, React, and Node.js<br>🤝 I’m looking to collaborate on:<br>Beginner-friendly web development projects and open-source contributions <br><br>⚡ Fun fact:<br>I believe consistency beats talent, and I enjoy learning something new every day 🚀
+I’m a curious and self-driven learner with a background in Electronics Engineering, currently transitioning into software development. I enjoy building practical projects, learning new technologies, and constantly improving my skills step by step.<br><br>🔭 I’m currently working on:<br>Frontend & backend projects using JavaScript, React, and Node.js<br>🤝 I’m looking to collaborate on:<br>Web development projects and open-source contributions <br><br>⚡ Fun fact:<br>I believe consistency beats talent, and I enjoy learning something new every day 🚀
 
 
 ## 🌐 Socials:
